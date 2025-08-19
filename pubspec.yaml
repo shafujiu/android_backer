@@ -35,7 +35,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.shafujiu.android_backer
+        package: com.example.android_backer
         pluginClass: AndroidBackerPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
