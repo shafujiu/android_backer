@@ -1,7 +1,7 @@
 name: android_backer
 description: "A new Flutter plugin project. smart back to desktop, only support android"
 version: 1.0.0
-homepage: 
+homepage: https://github.com/shafujiu/android_backer
 
 environment:
   sdk: ^3.8.1
